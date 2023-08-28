@@ -7,8 +7,10 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Our custom software development services are designed to match your
+            exact requirements. Whether it's a web-based application or
+            enterprise software, we build solutions that align with your goals
+            and give your business a competitive edge.
           </p>
         </div>
         <div className="row">

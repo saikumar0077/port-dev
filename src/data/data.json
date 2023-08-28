@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Hi, Welcome to our place!",
+    "paragraph": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to Intallysh Wisdom! We're like builders, but for software. Our mission is to build website that help you do things better and faster. We've teamed up with all sorts of folks, from small projects to large projects. Our happiness comes from making your work smoother and your life simpler. Let's make tech easy together!",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise and Experience",
+      "Innovative Solutions",
+      "Tailored Approach",
+      "Quality Assurance"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Timely Delivery",
+      "Customization and Flexibility",
+      "Affordable Solutions",
+      "User-Centric Design"
     ]
   },
   "Gallery": [
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-gears",
+      "name": "Development",
+      "text": "One of our core strengths lies in our investment in software development. We develop and deliver high quality products in accordance with specifications."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-refresh",
+      "name": "Continuous Support",
+      "text": " Our dedicated support team is available around the clock to assist you with any technical issues or questions you may have which includes improvements, and updates."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-group",
+      "name": "Expert Guidence",
+      "text": "We are a team of certified experts with tremendous experience in web design and development who will walk you through the process with their expertise."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cubes",
+      "name": "High End Design",
+      "text": "Our high-end design solutions for software development encompass innovation and customization. We're committed to creating software products that will function flawlessly."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-lock",
+      "name": "Security",
+      "text": "We provide security for software development involves integrating robust measures throughout the development lifecycle, including secure design, coding practices, and continuous monitoring."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Enterprise management",
+      "text": "We provide effective enterprise management for software development which ensures projects align with business goals, risk is minimized, and quality is maintained."
     }
   ],
   "Testimonials": [
@@ -132,53 +132,54 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Chandrahas Dewangan",
+      "job": "Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Fanish Dewangan",
+      "job": "Co Founder"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Sonam Dewangan",
+      "job": "Co Founder"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/01.jpg",
+      "name": "Amit Dewangan",
+      "job": "Senior Software Engineer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Ganj Road, Near Shri Ram Janki Mandir, Ward No 16, Gobra Nawapara, Raipur C.G. 492001",
+    "phone": "+91 9755255350",
+    "email": "intallyshwisdom@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "instagram": "instagram.com",
+    "whatsaap" : "https://wa.me/+919755255350"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Awesome Support",
+      "text": "From troubleshooting technical glitches to assisting with content updates, our support services cover a wide spectrum of website needs."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lock",
+      "title": "Analytics Security",
+      "text": "Our dedication to safeguarding your online assets reflects our commitment to maintaining the integrity of your website and the trust of your users."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Collaborative Team",
+      "text": "Our website development thrives on the strength of collaboration, bringing together skilled team that synergizes creativity, expertise, and innovation."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Enhancement",
+      "text": "Our team of experts is dedicated to identifying opportunities for improvement across all aspects of your website as well as your input."
     }
   ]
 }
